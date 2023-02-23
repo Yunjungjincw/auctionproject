@@ -1,4 +1,4 @@
-package com.ourcom.app3.interceptor;
+package com.mycom.auction.interceptor;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.ourcom.app3.HomeController;
+import com.mycom.auction.HomeController;
 
 /* interceptor(인터셉터)
 - 특정 url울 요청할 때 컨트롤러로 가는 요청을 가로채     특정 작업을 처리하는 것을 의미한다.
