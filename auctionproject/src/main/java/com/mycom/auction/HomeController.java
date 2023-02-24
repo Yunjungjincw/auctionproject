@@ -1,4 +1,4 @@
-package com.ourcom.app3;
+package com.mycom.auction;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -33,7 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		return "home";
+		return "/module/layout";
 	}
 	
 }
