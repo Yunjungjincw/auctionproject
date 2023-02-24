@@ -113,6 +113,12 @@ background-color: white;
     <a href="#">Option 2-3</a>
   </div>
 </div>
+<div class="dropdown" style="float: right;">
+  <button class="dropbtn" onclick="location.href=''">로그아웃</button>
+</div>
+<div class="dropdown" style="float: right;">
+  <button class="dropbtn" onclick="location.href=''">로그인</button>
+</div>
 
 </body>
 </html>
