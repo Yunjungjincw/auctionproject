@@ -10,6 +10,7 @@ pom.properties
 .classpath
 MANIFEST.MF
 
+auctionproject/src/main/webapp/META-INF/maven/com.mycom/auction
 ### Eclipse ###
 .metadata
 bin/
@@ -22,6 +23,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+
 
 # External tool builders
 .externalToolBuilders/
