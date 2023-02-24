@@ -10,7 +10,6 @@ pom.properties
 .classpath
 MANIFEST.MF
 
-auctionproject/src/main/webapp/META-INF/maven/com.mycom/auction
 ### Eclipse ###
 .metadata
 bin/
